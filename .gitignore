@@ -1,2 +1,5 @@
 __pycache__
 .env
+logs
+uploads
+.DS_Store
